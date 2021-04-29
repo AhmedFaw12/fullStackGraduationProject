@@ -56,14 +56,14 @@
     cursor: pointer;
 }
 
-.SliderJs.close{
+.SliderJs .close{
     width: 25%;
     height: 100%;
     /* background-color: tomato; */
 
 }
 
-.SliderJs.left{
+.SliderJs .left{
     position: absolute;
     left: 0;
 }
