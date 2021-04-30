@@ -1,5 +1,5 @@
 // Fawzy SliderJS section
-var imgs = document.getElementsByTagName("img");
+var imgs = document.querySelectorAll(".sliderImg");
 var fixedBox = document.getElementById("fixedBox");
 var smallBox = document.getElementById("smallBox");
 var prevBtn = document.getElementById("prevBtn");
