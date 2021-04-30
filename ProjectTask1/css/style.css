@@ -335,3 +335,29 @@ header
 .card1:hover .card-text h2{
     color: #f25454;
 }
+
+/*___contact section_____________*/
+
+.contact{
+    background-color:#f8f8f8;
+    width: 50%;
+    float: left;
+    padding:25px;
+    box-sizing: border-box;
+
+}
+iframe{
+    width: 100%;
+}
+.contact h2{
+    font-size: 32;
+    font-family: 'Alegreya', serif ;
+    color: #303030;
+    font-weight: lighter;
+}
+.contact b {
+    font-size: 17px;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #525050;
+    line-height: 30px;
+}
